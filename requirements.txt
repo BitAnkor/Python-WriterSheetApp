@@ -1,0 +1,14 @@
+tkinter==0.1.0          # Bundled with Python (usually)
+PyYAML==6.0             # For configuration files
+python-dotenv==1.0.0    # Environment variables
+loguru==0.7.0           # Advanced logging (alternative to logging)
+pathlib2==2.3.7.post1   # Backport of pathlib (Python <3.4)
+
+ttkwidgets==0.12.0      # Modern Tkinter widgets
+Pillow==9.5.0           # Image support (for icons)
+pyglet==2.0.10          # Smooth animations (optional)
+
+black==23.7.0           # Code formatting
+pylint==2.17.4          # Code quality
+mypy==1.4.1             # Static type checking
+pytest==7.4.0           # Unit testing
